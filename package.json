@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Shanna Noe",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -14,7 +15,11 @@
 	"version": "1.0.0",
 	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
 	"devDependencies": {},
+<<<<<<< HEAD
 	"author": "SHanna Noe",
+=======
+	"author": "Shanna Noe",
+>>>>>>> 6e3db887b6252831a3ea9b0cb420d4920aa3b143
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
